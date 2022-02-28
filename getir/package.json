@@ -1,0 +1,25 @@
+{
+  "name": "dhawanis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/akahaysharma4/dhawanis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/akahaysharma4/dhawanis/issues"
+  },
+  "homepage": "https://gitlab.com/akahaysharma4/dhawanis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "mongodb": "^4.1.3"
+  }
+}
